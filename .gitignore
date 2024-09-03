@@ -4,7 +4,7 @@ venv/
 new_venv/
 .venv/
 new_env/
-
+/synthetic media/practice_2/media/
 # Игнорирование временных файлов и директорий
 __pycache__/
 *.pyc
