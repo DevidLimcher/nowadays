@@ -5,6 +5,7 @@ new_venv/
 .venv/
 new_env/
 /synthetic_media/practice_2/media/
+/synthetic_media/practice_3/tortoise-tts/
 # Игнорирование временных файлов и директорий
 __pycache__/
 *.pyc
