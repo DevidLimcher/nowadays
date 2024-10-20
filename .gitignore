@@ -18,3 +18,6 @@ __pycache__/
 synthetic_media/practice_4/data/VCTK-Corpus/
 synthetic_media/practice_4/data
 synthetic_media/practice_4/runs
+synthetic_media/practice_4/VCTK-Corpus.zip
+synthetic_media/practice_4/VCTK-Corpus
+synthetic_media/practice_4/wandb
